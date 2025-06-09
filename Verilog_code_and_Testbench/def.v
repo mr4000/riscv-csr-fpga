@@ -1,3 +1,5 @@
+
+//Constants file used in riscv core
 // ALU Operations
 //--------------------------------------------------------------------
 `define ALU_NONE                                4'b0000
