@@ -21,7 +21,7 @@ CSR_Design_Dynamos/
 │   ├── risc_csr_tb.v            # Testbench for CSR module
 │   ├── def.v                    # CSR register definitions and macros
 ├── project_report.pdf       # Final lab report
-│  
+ 
   
 
 
