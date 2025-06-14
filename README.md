@@ -46,8 +46,4 @@ CSR_Design_Dynamos/
 M.Tech VLSI Design, IIT Bombay
 EE705 VLSI Design Lab Project (2025)
 
-TAs: Arpit & Lakshmi
-
----
-
 For any questions or suggestions, feel free to open an issue or fork the repo!
